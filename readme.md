@@ -18,4 +18,4 @@ Docker compose config based on https://github.com/joedwards32/CS2 with MatchZy.
         }
     }
     ```
-- Install plugins by uncommenting line 50 in `docker-compose.yml`. Only need to run once or to update plugins. Does not hurt to re-run.
+- Install plugins by uncommenting: https://github.com/zhaoterryy/cs2-dedicated/blob/f09e450f2ef4de53d5661d341ca0cdf7f2f8b0d6/docker-compose.yml#L49-L50 Only need to run once or to update plugins. Does not hurt to re-run.
